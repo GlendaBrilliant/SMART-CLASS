@@ -1,2 +1,88 @@
-# SMART-CLASS
-Projeto Integrador 1° ano AMS - FATEC TAUBATÉ
+<div align="center">
+ <br/>
+ <!-- Substitua o link abaixo pela URL da sua logo -->
+ <img src="https://files.fm/u/43jw9rf9ev"/>
+</div>
+<br/>
+
+![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow?style=flat-square&logo=)
+
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Description](#description)
+- [Client](#client)
+- [Illustration of Features](#illustration-of-features)
+- [Demonstration](#demonstration)
+- [Sprint Epic](#sprint-epic)
+- [Product Backlog](#product-backlog)
+- [Technologies](#technologies)
+- [Members](#members)
+- [Schedule of API](#schedule-of-api)
+
+## Description
+
+<p align="justify">
+Classe Inteligente é um sistema desenvolvido para [INSIRA AQUI O OBJETIVO DO PROJETO].  
+Este projeto tem como finalidade [COLOQUE AQUI O TEXTO DE DESCRIÇÃO].
+</p>
+
+## Client
+
+<p align="justify">
+[INSIRA AQUI O TEXTO SOBRE O CLIENTE OU USUÁRIO-ALVO DO PROJETO].
+</p>
+
+## Illustration of Features
+
+Para acessar nosso *protótipo*, clique [aqui](LINK_DO_PROTO).
+
+## Demonstration
+
+Para acessar nossa playlist de demonstração, clique [aqui](LINK_DO_VIDEO):
+
+[<img src="COLOQUE_AQUI_UMA_IMAGEM_DE_CAPA" width="60%" height="60%">](LINK_DO_VIDEO "Demonstração do Classe Inteligente")
+
+## Sprint Epic
+
+| Sprint | Epic |
+| -------| --------- |
+| Sprint 1 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 1] |
+| Sprint 2 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 2] |
+| Sprint 3 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 3] |
+| Sprint 4 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 4] |
+
+## Product Backlog
+
+- [ ] **SPRINT 1:** [Descreva aqui as funcionalidades]  
+- [ ] **SPRINT 2:** [Descreva aqui as funcionalidades]  
+- [ ] **SPRINT 3:** [Descreva aqui as funcionalidades]  
+- [ ] **SPRINT 4:** [Descreva aqui as funcionalidades]  
+
+## Technologies
+
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="badge"> 
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="badge">  
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="badge">  
+<img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="badge">  
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="badge">  
+
+## Members
+
+- Glenda Lopes  
+- Cilmara Ribeiro  
+- Felipe Caitano  
+- Flávio Augusto  
+- Giovana Jandira  
+- Giovanna Gonçalves  
+
+## Schedule of API
+
+| Date | Event |
+| -------| --------- |
+| [DATA] | Kick-off |
+| [DATA] | Sprint 1 |
+| [DATA] | Sprint 2 |
+| [DATA] | Sprint 3 |
+| [DATA] | Sprint 4 |
+| [DATA] | Apresentação Final |
