@@ -1,7 +1,7 @@
 <div align="center">
  <br/>
  <!-- Substitua o link abaixo pela URL da sua logo -->
- <img src="https://files.fm/u/43jw9rf9ev"/>
+ <img src="logo.png" width="120"/>
 </div>
 <br/>
 
@@ -23,14 +23,13 @@
 ## Description
 
 <p align="justify">
-Classe Inteligente é um sistema desenvolvido para [INSIRA AQUI O OBJETIVO DO PROJETO].  
-Este projeto tem como finalidade [COLOQUE AQUI O TEXTO DE DESCRIÇÃO].
+O Smart Class é uma plataforma digital criada para modernizar e centralizar o gerenciamento acadêmico de instituições públicas e privadas, permitindo que escolas, professores e alunos se conectem de forma eficiente e organizada.
 </p>
 
 ## Client
 
 <p align="justify">
-[INSIRA AQUI O TEXTO SOBRE O CLIENTE OU USUÁRIO-ALVO DO PROJETO].
+Nosso principal cliente é o Colégio Tableau Taubaté, mas devido ao nicho que estamos inserindo nisso projeto, queremos expandir-lo para outras instituições de ensino.
 </p>
 
 ## Illustration of Features
