@@ -53,10 +53,13 @@ Para acessar nossa playlist de demonstração, clique [aqui](LINK_DO_VIDEO):
 
 ## Product Backlog
 
-- [ ] **SPRINT 1:** [Descreva aqui as funcionalidades]  
-- [ ] **SPRINT 2:** [Descreva aqui as funcionalidades]  
+- [ ] **SPRINT 1:** [ESTRUTURA E ORGANIZAÇÃO INICIAL]  
+- [ ] **SPRINT 2:** [FUNDAMENTOS & ACESSO]  
 - [ ] **SPRINT 3:** [Descreva aqui as funcionalidades]  
-- [ ] **SPRINT 4:** [Descreva aqui as funcionalidades]  
+- [ ] **SPRINT 5:** [Descreva aqui as funcionalidades]
+- [ ] **SPRINT 6:** [Descreva aqui as funcionalidades]
+- [ ] **SPRINT 7:** [Descreva aqui as funcionalidades]
+- [ ] **SPRINT 8:** [Descreva aqui as funcionalidades]
 
 ## Technologies
 
