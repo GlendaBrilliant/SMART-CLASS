@@ -34,7 +34,7 @@ Nosso principal cliente é o Colégio Tableau Taubaté, mas devido ao nicho que 
 
 ## Illustration of Features
 
-Para acessar nosso *protótipo*, clique [aqui](LINK_DO_PROTO).
+Para acessar nosso *protótipo*, clique [aqui](https://www.figma.com/design/XGHdnANLvO6gxq88auBDBK/SMART-CLASS?m=auto&t=iJkJ2LDpTACLZWEF-6).
 
 ## Demonstration
 
