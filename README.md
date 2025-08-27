@@ -46,14 +46,14 @@ Para acessar nossa playlist de demonstração, clique [aqui](LINK_DO_VIDEO):
 
 | Sprint | Epic |
 | -------| --------- |
-| Sprint 1 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 1] |
-| Sprint 2 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 2] |
-| Sprint 3 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 3] |
-| Sprint 4 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 4] |
-| Sprint 5 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 5] |
-| Sprint 6 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 6] |
-| Sprint 7 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 7] |
-| Sprint 8 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 8] |
+| Sprint 1 | [ESTRUTURA E ORGANIZAÇÃO INICIAL 1] |
+| Sprint 2 | [FUNDAMENTOS & ACESSO 2] |
+| Sprint 3 | [PAINÉIS BÁSICOS & APROVAÇÃO 3] |
+| Sprint 4 | [GESTÃO DE CURSOS & TURMAS 4] |
+| Sprint 5 | [ ALUNOS & MATRÍCULAS 5 ] |
+| Sprint 6 | [AGENDAMENTO DE AULAS 6] |
+| Sprint 7 | [PRESENÇAS 7] |
+| Sprint 8 | [ REFINAMENTO & EXTRAS 8] |
 
 ## Product Backlog
 
