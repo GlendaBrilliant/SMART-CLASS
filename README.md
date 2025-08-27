@@ -136,9 +136,9 @@ Para acessar nossa playlist de demonstração, clique [aqui](LINK_DO_VIDEO):
 | Date | Event |
 | -------| --------- |
 | [DATA] | Kick-off |
-| [03/05-29/05] | Sprint 1 |
-| [03/08-/08] | Sprint 2 |
-| [03/09-03/10] | Sprint 3 |
+| [03/05-29/05] | Sprint 1 - [Sprint 1](https://github.com/usuario/repositorio/tree/sprint-1)|
+| [03/08-/08] | Sprint 2 |  -[Sprint 2](https://github.com/usuario/repositorio/tree/sprint-2)
+| [03/09-03/10] | Sprint 3 |- [Sprint 3](https://github.com/usuario/repositorio/tree/sprint-3)
 | [03/10]| Sprint 4 |
 | [03/11] | Sprint 5 |
 | [25/11] | Sprint 6 |
