@@ -93,4 +93,8 @@ Para acessar nossa playlist de demonstração, clique [aqui](LINK_DO_VIDEO):
 | [DATA] | Sprint 2 |
 | [DATA] | Sprint 3 |
 | [DATA] | Sprint 4 |
+| [DATA] | Sprint 5 |
+| [DATA] | Sprint 6 |
+| [DATA] | Sprint 7 |
+| [DATA] | Sprint 8 |
 | [DATA] | Apresentação Final |
