@@ -46,14 +46,14 @@ Para acessar nossa playlist de demonstração, clique [aqui](LINK_DO_VIDEO):
 
 | Sprint | Epic |
 | -------| --------- |
-| Sprint 1 | [ESTRUTURA E ORGANIZAÇÃO INICIAL 1] |
-| Sprint 2 | [FUNDAMENTOS & ACESSO 2] |
-| Sprint 3 | [PAINÉIS BÁSICOS & APROVAÇÃO 3] |
-| Sprint 4 | [GESTÃO DE CURSOS & TURMAS 4] |
-| Sprint 5 | [ ALUNOS & MATRÍCULAS 5 ] |
-| Sprint 6 | [AGENDAMENTO DE AULAS 6] |
-| Sprint 7 | [PRESENÇAS 7] |
-| Sprint 8 | [ REFINAMENTO & EXTRAS 8] |
+| Sprint 1 | ESTRUTURA E ORGANIZAÇÃO INICIAL 1|
+| Sprint 2 | FUNDAMENTOS & ACESSO 2 |
+| Sprint 3 | PAINÉIS BÁSICOS & APROVAÇÃO 3 |
+| Sprint 4 | GESTÃO DE CURSOS & TURMAS 4 |
+| Sprint 5 | ALUNOS & MATRÍCULAS 5  |
+| Sprint 6 | AGENDAMENTO DE AULAS 6|
+| Sprint 7 | PRESENÇAS 7 |
+| Sprint 8 | REFINAMENTO & EXTRAS 8 |
 
 ## Product Backlog
 
@@ -136,12 +136,12 @@ Para acessar nossa playlist de demonstração, clique [aqui](LINK_DO_VIDEO):
 | Date | Event |
 | -------| --------- |
 | [DATA] | Kick-off |
-| [03/05-29/05] | Sprint 1 - [Sprint 1](https://github.com/usuario/repositorio/tree/sprint-1)|
-| [03/08-/08] | Sprint 2 |  -[Sprint 2](https://github.com/usuario/repositorio/tree/sprint-2)
-| [03/09-03/10] | Sprint 3 |- [Sprint 3](https://github.com/usuario/repositorio/tree/sprint-3)
-| [03/10]| Sprint 4 |
-| [03/11] | Sprint 5 |
-| [25/11] | Sprint 6 |
-| [03/12] | Sprint 7 |
-| [03/12] | Sprint 8 |
+| [03/05-29/05] |[Sprint 1](https://github.com/usuario/repositorio/tree/sprint-1)|
+| [03/08-/08] | [Sprint 2](https://github.com/usuario/repositorio/tree/sprint-1)|
+| [03/09-03/10] |[Sprint 3](https://github.com/usuario/repositorio/tree/sprint-1)
+| [03/10]| [Sprint 4](https://github.com/usuario/repositorio/tree/sprint-1) |
+| [03/11] |[Sprint 5](https://github.com/usuario/repositorio/tree/sprint-1) |
+| [25/11] |[Sprint 6](https://github.com/usuario/repositorio/tree/sprint-1) |
+| [03/12] |[Sprint 7](https://github.com/usuario/repositorio/tree/sprint-1)|
+| [03/12] |[Sprint 8](https://github.com/usuario/repositorio/tree/sprint-1)|
 | [DATA] | Apresentação Final |
