@@ -58,60 +58,60 @@ Para acessar nossa playlist de demonstração, clique [aqui](LINK_DO_VIDEO):
 ## Product Backlog
 
 - [ ] **SPRINT 1:** [ESTRUTURA E ORGANIZAÇÃO INICIAL]
-- [ ] Criar BR-Modelo (requisitos de negócio)
-- [ ] Levantar requisitos funcionais e não funcionais
-- [ ] Montar cronograma e definição das sprints
-- [ ] Criar repositório no GitHub
-- [ ] Reuniões de definição de papéis e regras
-- [ ] Criar DER (modelo entidade-relacionamento)
-- [ ] Criar diagramas UML (caso de uso, classe, sequência, pacotes)
-- [ ] Criar organização no TRELLO
-- [ ] Montar base de dados local (MySQL ou Sheets)
+- [ ]  Criar BR-Modelo (requisitos de negócio)
+- [ ]  Levantar requisitos funcionais e não funcionais
+- [ ]  Montar cronograma e definição das sprints
+- [ ]  Criar repositório no GitHub
+- [ ]  Reuniões de definição de papéis e regras
+- [ ]  Criar DER (modelo entidade-relacionamento)
+- [ ]  Criar diagramas UML (caso de uso, classe, sequência, pacotes)
+- [ ]  Criar organização no TRELLO
+- [ ]  Montar base de dados local (MySQL ou Sheets)
 - [ ] **SPRINT 2:** [FUNDAMENTOS & ACESSO]
-- [ ] Criar página inicial
-- [ ] Seção de "Como Funciona" + FAQ
-- [ ] Implementar tela de cadastro (Aluno, Professor, Coordenador, Administrador)
-- [ ] Backend de cadastro com status "pendente" até aprovação
-- [ ] Integração de banco de dados inicial (estrutura de usuários e permissões)
-- [ ] Testes de fluxo de login/cadastro
-- [ ] Criar painel inicial do professor (estrutura e placeholders)
+- [ ]  Criar página inicial
+- [ ]  Seção de "Como Funciona" + FAQ
+- [ ]  Implementar tela de cadastro (Aluno, Professor, Coordenador, Administrador)
+- [ ]  Backend de cadastro com status "pendente" até aprovação
+- [ ]  Integração de banco de dados inicial (estrutura de usuários e permissões)
+- [ ]  Testes de fluxo de login/cadastro
+- [ ]  Criar painel inicial do professor (estrutura e placeholders)
 - [ ] **SPRINT 3:** [PAINÉIS BÁSICOS & APROVAÇÃO]
-- [ ] Criar layout e navegação do painel do administrador
-- [ ] Implementar fluxo de aprovação de cadastros (alunos, professores e coordenadores)
-- [ ] Criar painel inicial do professor (estrutura e placeholders)
-- [ ] Criar painel inicial do aluno
-- [ ] Criar painel inicial do coordenador
-- [ ] Testes de permissões (cada usuário vê o que é pendente)
+- [ ]  Criar layout e navegação do painel do administrador
+- [ ]  Implementar fluxo de aprovação de cadastros (alunos, professores e coordenadores)
+- [ ]  Criar painel inicial do professor (estrutura e placeholders)
+- [ ]  Criar painel inicial do aluno
+- [ ]  Criar painel inicial do coordenador
+- [ ]  Testes de permissões (cada usuário vê o que é pendente)
 - [ ] **SPRINT 4:** [GESTÃO DE CURSOS & TURMAS]
-- [ ] Tela de listagem de cursos (com busca e filtros)
-- [ ] Tela de listagem de turmas (com busca e filtros)
-- [ ] CRUD de cursos (adicionar, editar, excluir)
-- [ ] CRUD de turmas (adicionar, editar, excluir)
-- [ ] Relacionamento curso, turma e professor
-- [ ] Exibir n° de alunos por turma e botão "ver alunos da turma", se possível
+- [ ]  Tela de listagem de cursos (com busca e filtros)
+- [ ]  Tela de listagem de turmas (com busca e filtros)
+- [ ]  CRUD de cursos (adicionar, editar, excluir)
+- [ ]  CRUD de turmas (adicionar, editar, excluir)
+- [ ]  Relacionamento curso, turma e professor
+- [ ]  Exibir n° de alunos por turma e botão "ver alunos da turma", se possível
 - [ ] **SPRINT 5:** [ALUNOS & MATRÍCULAS]
-- [ ] Tela de listagem de alunos da instituição
-- [ ] Filtro por turma/curso
-- [ ] Vincular aluno a turma (matrícula)
-- [ ] Edição/remoção de vínculo
-- [ ] Exportar lista de alunos (PDF/Excel, se possível)
+- [ ]  Tela de listagem de alunos da instituição
+- [ ]  Filtro por turma/curso
+- [ ]  Vincular aluno a turma (matrícula)
+- [ ]  Edição/remoção de vínculo
+- [ ]  Exportar lista de alunos (PDF/Excel, se possível)
 - [ ] **SPRINT 6:** [AGENDAMENTO DE AULAS]
-- [ ] Integração com calendário (front-end)
-- [ ] Back-end para agendar aula (verifica confilto de horário)
-- [ ] Botão "+" no calendário para agendar (permissões: professor, admin, coordenador)
-- [ ] Listagem de aulas agendadas (modo tabela)
-- [ ] Filtro por curso/turma/data
+- [ ]  Integração com calendário (front-end)
+- [ ]  Back-end para agendar aula (verifica confilto de horário)
+- [ ]  Botão "+" no calendário para agendar (permissões: professor, admin, coordenador)
+- [ ]  Listagem de aulas agendadas (modo tabela)
+- [ ]  Filtro por curso/turma/data
 - [ ] **SPRINT 7:** [PRESENÇAS]
-- [ ] Tela do professor para chamada (habilita apenas no horário da aula)
-- [ ] Back-end para registrar presença/ausência/justificativa
-- [ ] Tela do administrador para gerenciar presenças (editar)
-- [ ] Relatório de presença por turma/aluno
-- [ ] Aviso para chamadas pendentes
+- [ ]  Tela do professor para chamada (habilita apenas no horário da aula)
+- [ ]  Back-end para registrar presença/ausência/justificativa
+- [ ]  Tela do administrador para gerenciar presenças (editar)
+- [ ]  Relatório de presença por turma/aluno
+- [ ]  Aviso para chamadas pendentes
 - [ ] **SPRINT 8:** [REFINAMENTO & EXTRAS]
-- [ ] Melhorias de UI/UX
-- [ ] Integração com Google Agenda (extra)
-- [ ] Ajustes em FAQ e página inicial
-- [ ] Testes finais e correções de bugs
+- [ ]  Melhorias de UI/UX
+- [ ]  Integração com Google Agenda (extra)
+- [ ]  Ajustes em FAQ e página inicial
+- [ ]  Testes finais e correções de bugs
 
 
 ## Technologies
@@ -136,12 +136,12 @@ Para acessar nossa playlist de demonstração, clique [aqui](LINK_DO_VIDEO):
 | Date | Event |
 | -------| --------- |
 | [DATA] | Kick-off |
-| [DATA] | Sprint 1 |
-| [DATA] | Sprint 2 |
-| [DATA] | Sprint 3 |
-| [DATA] | Sprint 4 |
-| [DATA] | Sprint 5 |
-| [DATA] | Sprint 6 |
-| [DATA] | Sprint 7 |
-| [DATA] | Sprint 8 |
+| [03/05-29/05] | Sprint 1 |
+| [03/08-/08] | Sprint 2 |
+| [03/09-03/10] | Sprint 3 |
+| [03/10]| Sprint 4 |
+| [03/11] | Sprint 5 |
+| [25/11] | Sprint 6 |
+| [03/12] | Sprint 7 |
+| [03/12] | Sprint 8 |
 | [DATA] | Apresentação Final |
