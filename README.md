@@ -1,6 +1,6 @@
 <div align="center">
  <br/>
- <!-- Substitua o link abaixo pela URL da sua logo -->
+
  <img src="logo.png" width="120"/>
 </div>
 <br/>
@@ -49,17 +49,22 @@ Para acessar nossa playlist de demonstração, clique [aqui](LINK_DO_VIDEO):
 | Sprint 1 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 1] |
 | Sprint 2 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 2] |
 | Sprint 3 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 3] |
-| Sprint 4 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 4] |
+| Sprint 5 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 4] |
+| Sprint 6 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 4] |
+| Sprint 7 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 4] |
+| Sprint 8 | [INSIRA OS TEMAS TRABALHADOS NA SPRINT 4] |
 
 ## Product Backlog
 
 - [ ] **SPRINT 1:** [ESTRUTURA E ORGANIZAÇÃO INICIAL]  
 - [ ] **SPRINT 2:** [FUNDAMENTOS & ACESSO]  
-- [ ] **SPRINT 3:** [Descreva aqui as funcionalidades]  
-- [ ] **SPRINT 5:** [Descreva aqui as funcionalidades]
-- [ ] **SPRINT 6:** [Descreva aqui as funcionalidades]
-- [ ] **SPRINT 7:** [Descreva aqui as funcionalidades]
-- [ ] **SPRINT 8:** [Descreva aqui as funcionalidades]
+- [ ] **SPRINT 3:** [PAINÉIS BÁSICOS & APROVAÇÃO]  
+- [ ] **SPRINT 4:** [GESTÃO DE CURSOS & TURMAS]
+- [ ] **SPRINT 5:** [ALUNOS & MATRÍCULAS]
+- [ ] **SPRINT 6:** [AGENDAMENTO DE AULAS]
+- [ ] **SPRINT 7:** [PRESENÇAS]
+- [ ] **SPRINT 8:** [REFINAMENTO & EXTRAS]
+
 
 ## Technologies
 
@@ -71,12 +76,12 @@ Para acessar nossa playlist de demonstração, clique [aqui](LINK_DO_VIDEO):
 
 ## Members
 
-- Glenda Lopes  
-- Cilmara Ribeiro  
-- Felipe Caitano  
-- Flávio Augusto  
-- Giovana Jandira  
-- Giovanna Gonçalves  
+- Glenda Lopes (PO)
+- Cilmara Ribeiro (SM) 
+- Felipe Caitano (DEV)  
+- Flávio Augusto (DEV)  
+- Giovana Jandira (DEV)  
+- Giovanna Gonçalves (DEV)  
 
 ## Schedule of API
 
