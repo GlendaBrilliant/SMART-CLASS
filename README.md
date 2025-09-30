@@ -46,7 +46,7 @@ Para acessar nossa playlist de demonstração, clique [aqui](LINK_DO_VIDEO):
 
 | Sprint | Epic |
 | -------| --------- |
-| Sprint 1 | [ESTRUTURA E ORGANIZAÇÃO INICIAL 221] |
+| Sprint 1 | [ESTRUTURA E ORGANIZAÇÃO INICIAL 1] |
 | Sprint 2 | [FUNDAMENTOS & ACESSO 2] |
 | Sprint 3 | [PAINÉIS BÁSICOS & APROVAÇÃO 3] |
 | Sprint 4 | [GESTÃO DE CURSOS & TURMAS 4] |
