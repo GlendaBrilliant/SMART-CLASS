@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Escolher Cadastro</title>
-   <link rel="stylesheet" href="styleee.css">
+   <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <center>

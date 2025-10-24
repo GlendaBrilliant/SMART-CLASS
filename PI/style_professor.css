@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    background: linear-gradient(135deg,#f0f4f9,#dbeafe);
+}
+
+.menu-lateral {
+    width: 250px;
+    background-color: #1e1f26;
+    color: white;
+    padding: 20px;
+}
+
+.menu-lateral ul {
+    list-style: none;
+    margin-top: 40px;
+}
+
+.menu-lateral ul li {
+    margin: 20px 0;
+}
+
+.menu-lateral ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+    display: block;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.menu-lateral ul li a:hover,
+.menu-lateral ul li a.ativo {
+    background-color: #007bff;
+}
+
+.conteudo-principal {
+    flex: 1;
+    padding: 40px;
+    overflow: auto;
+    background-color: #fff;
+}
+
+.lista-turmas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.turma-card {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.turma-card:hover {
+    background-color: #0056b3;
+}
+
+/* --- CALENDÁRIO --- */
+#calendar {
+    width: 100%;
+    height: calc(100vh - 100px);
+    display: flex;
+    flex-direction: column;
+    background: white;
+}
+
+.calendar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 8px 8px 0 0;
+}
+
+.calendar-header button {
+    background: white;
+    border: none;
+    color: #007bff;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.calendar-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 5px;
+    background: #f0f0f0;
+    padding: 10px;
+    flex: 1;
+}
+
+.calendar-grid div {
+    background: white;
+    padding: 15px;
+    text-align: center;
+    border-radius: 6px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+
+.calendar-grid .empty {
+    background: transparent;
+    box-shadow: none;
+}

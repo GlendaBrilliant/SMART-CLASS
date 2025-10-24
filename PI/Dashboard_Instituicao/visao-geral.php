@@ -12,25 +12,31 @@ if (!isset($_SESSION['usuario_tipo']) || $_SESSION['usuario_tipo'] !== 'institui
 <head>
     <meta charset="UTF-8">
     <title>Dashboard - Visão Geral</title>
-    <link rel="stylesheet" href="../styleee.css">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
 <div class="dashboard-container">
-    
-    <aside class="sidebar">
-        <h2 class="logo">Minha Instituição</h2>
-        <nav class="menu">
+    <div class="sidebar">
+    <div class="top-section">
+        <div class="logo">
+            <?php echo $_SESSION['nome']; ?>
+        </div>
+
+        <div class="menu">
             <ul>
-                <li><a href="visao-geral.php" class="active">📊 Visão Geral</a></li>
-                <li><a href="aprovacoes.php">✅ Aprovações</a></li>
-                <li><a href="professores.php">👨‍🏫 Professores</a></li>
-                <li><a href="alunos.php">👩‍🎓 Alunos</a></li>
-                <li><a href="turmas.php">🏫 Turmas e Matérias</a></li>
+                <li><a href="visao-geral.php" class="active"><i class="bi bi-speedometer2"></i>Visão Geral</a></li>
+                <li><a href="aprovacoes.php"><i class="bi bi-check-circle"></i>Aprovações</a></li>
+                <li><a href="professores.php"><i class="bi bi-person-badge"></i>Professores</a></li>
+                <li><a href="alunos.php"><i class="bi bi-backpack"></i>Alunos</a></li>
+                <li><a href="turmas.php"><i class="bi bi-journal-bookmark"></i>Turmas e Matérias</a></li>
             </ul>
-        </nav>
-        <a href="../logout.php" class="logout">🚪 Sair</a>
-    </aside>
+        </div>
+    </div>
+
+    <a href="../logout.php" class="logout">Sair</a>
+</div>
 
     <main class="main-content">
         <div class="visao-geral">

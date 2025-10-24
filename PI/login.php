@@ -27,7 +27,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             if ($tipo == "instituicao") {
                 header("Location: Dashboard_Instituicao/visao-geral.php");
             } elseif ($tipo == "professor") {
-                header("Location: afiliar_professor.php");
+                header("Location: professor_institutions.php");
             } else {
                 header("Location: afiliar_aluno.php");
             }
@@ -46,7 +46,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
     <meta charset="UTF-8">
     <title>Login</title>
-    <link rel="stylesheet" href="styleee.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="login-page-container">

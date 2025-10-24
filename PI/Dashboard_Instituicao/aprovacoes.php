@@ -59,7 +59,8 @@ $disciplinas = $conn->query("SELECT d.id, d.nome, t.nome AS turma_nome FROM disc
 <head>
     <meta charset="UTF-8">
     <title>Dashboard - Aprovações</title>
-    <link rel="stylesheet" href="../styleee.css">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
     <style>
         .aba-container { display: flex; gap: 10px; margin-bottom: 20px; }
         .aba { padding: 10px 20px; background: #eee; border-radius: 8px; cursor: pointer; }
@@ -73,20 +74,25 @@ $disciplinas = $conn->query("SELECT d.id, d.nome, t.nome AS turma_nome FROM disc
 </head>
 <body>
 <div class="dashboard-container">
-    
-    <aside class="sidebar">
-        <h2 class="logo">Minha Instituição</h2>
-        <nav class="menu">
+    <div class="sidebar">
+    <div class="top-section">
+        <div class="logo">
+            <?php echo $_SESSION['nome']; ?>
+        </div>
+
+        <div class="menu">
             <ul>
-                <li><a href="visao-geral.php">📊 Visão Geral</a></li>
-                <li><a href="aprovacoes.php" class="active">✅ Aprovações</a></li>
-                <li><a href="professores.php">👨‍🏫 Professores</a></li>
-                <li><a href="alunos.php">👩‍🎓 Alunos</a></li>
-                <li><a href="turmas.php">🏫 Turmas e Matérias</a></li>
+                <li><a href="visao-geral.php"><i class="bi bi-speedometer2"></i>Visão Geral</a></li>
+                <li><a href="aprovacoes.php" class="active"><i class="bi bi-check-circle"></i>Aprovações</a></li>
+                <li><a href="professores.php"><i class="bi bi-person-badge"></i>Professores</a></li>
+                <li><a href="alunos.php"><i class="bi bi-backpack"></i>Alunos</a></li>
+                <li><a href="turmas.php"><i class="bi bi-journal-bookmark"></i>Turmas e Matérias</a></li>
             </ul>
-        </nav>
-        <a href="../logout.php" class="logout">🚪 Sair</a>
-    </aside>
+        </div>
+    </div>
+
+    <a href="../logout.php" class="logout">Sair</a>
+</div>
 
     <main class="main-content">
         <h2 class="page-title">✅ Aprovações</h2>

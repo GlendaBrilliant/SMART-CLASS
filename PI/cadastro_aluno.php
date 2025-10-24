@@ -12,7 +12,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     $foto = "";
     if (!empty($_FILES["foto"]["name"])) {
-        $targetDir = "uploads/";
         if(!is_dir($targetDir)) mkdir($targetDir);
         $fileName = time() . "_" . basename($_FILES["foto"]["name"]);
         $targetFilePath = $targetDir . $fileName;
@@ -37,7 +36,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
     <meta charset="UTF-8">
     <title>Cadastro Aluno</title>
-    <link rel="stylesheet" href="styleee.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
