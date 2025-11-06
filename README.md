@@ -52,8 +52,7 @@ Para acessar nossa playlist de demonstração, clique [aqui](LINK_DO_VIDEO):
 | Sprint 4 | [GESTÃO DE CURSOS & TURMAS 4] |
 | Sprint 5 | [ ALUNOS & MATRÍCULAS 5 ] |
 | Sprint 6 | [AGENDAMENTO DE AULAS 6] |
-| Sprint 7 | [PRESENÇAS 7] |
-| Sprint 8 | [ REFINAMENTO & EXTRAS 8] |
+| Sprint 7 | [ REFINAMENTO & EXTRAS 7] |
 
 ## Product Backlog
 
@@ -101,13 +100,12 @@ Para acessar nossa playlist de demonstração, clique [aqui](LINK_DO_VIDEO):
 - [ ]  Botão "+" no calendário para agendar (permissões: professor, admin, coordenador)
 - [ ]  Listagem de aulas agendadas (modo tabela)
 - [ ]  Filtro por curso/turma/data
-- [ ] **SPRINT 7:** [PRESENÇAS]
 - [ ]  Tela do professor para chamada (habilita apenas no horário da aula)
 - [ ]  Back-end para registrar presença/ausência/justificativa
 - [ ]  Tela do administrador para gerenciar presenças (editar)
 - [ ]  Relatório de presença por turma/aluno
 - [ ]  Aviso para chamadas pendentes
-- [ ] **SPRINT 8:** [REFINAMENTO & EXTRAS]
+- [ ] **SPRINT 7:** [REFINAMENTO & EXTRAS]
 - [ ]  Melhorias de UI/UX
 - [ ]  Integração com Google Agenda (extra)
 - [ ]  Ajustes em FAQ e página inicial
@@ -137,11 +135,10 @@ Para acessar nossa playlist de demonstração, clique [aqui](LINK_DO_VIDEO):
 | -------| --------- |
 | [DATA] | Kick-off |
 | [03/05-29/05] | Sprint 1 |
-| [03/08-/08] | Sprint 2 |
-| [03/09-03/10] | Sprint 3 |
-| [03/10]| Sprint 4 |
-| [03/11] | Sprint 5 |
-| [25/11] | Sprint 6 |
-| [03/12] | Sprint 7 |
-| [03/12] | Sprint 8 |
-| [DATA] | Apresentação Final |
+| [03/06-/02/07] | Sprint 2 |
+| [03/07-02/08] | Sprint 3 |
+| [03/08-02/09]| Sprint 4 |
+| [03/09-02/10] | Sprint 5 |
+| [03/10-02/11] | Sprint 6 |
+| [03/11-02/12] | Sprint 7 |
+| [03/12] | Apresentação Final |
