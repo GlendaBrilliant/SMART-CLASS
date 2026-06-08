@@ -1,0 +1,14 @@
+name: Hello World
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  dizer-oi:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Printar hello
+        run: echo "Hello!"
