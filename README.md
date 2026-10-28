@@ -110,6 +110,7 @@ Para acessar nossa playlist de demonstração, clique [aqui](LINK_DO_VIDEO):
 - [ ]  Integração com Google Agenda (extra)
 - [ ]  Ajustes em FAQ e página inicial
 - [ ]  Testes finais e correções de bugs
+- [ ]  FINAL
 
 
 ## Technologies
